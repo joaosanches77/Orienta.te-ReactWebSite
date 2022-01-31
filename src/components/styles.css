@@ -1,0 +1,53 @@
+
+h1 {
+    font-size: 3em;
+}
+
+h5 {
+    font-size: 1.1rem;
+}
+
+.card {
+    width: 18rem;
+    color: white;
+    border: none;
+}
+
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06)
+}
+
+.contagem {
+    font-weight: bolder;
+}
+
+.green {
+    background-color: red;
+    color: rgb(2, 97, 2);
+}
+
+.yellow {
+    background-color: hsl(51, 95%, 64%);
+    color: rgba(0, 0, 0, 0.425);
+}
+
+.orange {
+    background-color: rgb(243, 142, 59);
+    color: rgba(0, 0, 0, 0.432);
+}
+
+.red {
+    background-color: rgb(214, 64, 5);
+    color: rgba(0, 0, 0, 0.459);
+}
+
+.dia {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.486);
+}
+
+.contagem {
+    font-size: 3.5rem;
+}
